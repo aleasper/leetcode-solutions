@@ -5,5 +5,5 @@
 <br>Solution: [arithmetic_progression.js](https://github.com/aleasper/leetcode-solutions/blob/master/arithmetic_progression.js)
 
 #### Pow(x, n)
-[https://leetcode.com/problems/powx-n/a](https://leetcode.com/problems/powx-n/a)
+[https://leetcode.com/problems/powx-n](https://leetcode.com/problems/powx-n)
 <br>Solution: [pow.js](https://github.com/aleasper/leetcode-solutions/blob/master/pow.js)
